@@ -1,0 +1,1 @@
+This is a small projet i'm working on as a self taught web developer. please do not hesitate to suggest good practices and nice code formats. I will appreciate the help.
